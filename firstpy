@@ -1,0 +1,4 @@
+me = "Ali" 
+roll no = "21-TE-88"
+dept = "dept of telecome "
+print(me)
